@@ -1,1 +1,1 @@
-# React-2
+# React-homework-2
